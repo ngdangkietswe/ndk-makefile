@@ -1,1 +1,1 @@
-# ndk-makefile
+# Some interesting with Makefile
